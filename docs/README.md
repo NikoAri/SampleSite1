@@ -14,4 +14,4 @@ From OneDrive:
 
 From OneDrive:
 
-<iframe src="https://onedrive.live.com/embed?resid=CB3DEB5FC699256B%2148588&authkey=!AAdVKpNoYsiTKak" width="400" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=CB3DEB5FC699256B%2148588&authkey=!AAdVKpNoYsiTKak" width="320" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
