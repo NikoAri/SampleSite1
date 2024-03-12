@@ -2,7 +2,7 @@
 
 Content file path: docs/ReadMe.md
 
-Iteration: 11
+Iteration: 12
 
 ## Images
 
@@ -14,8 +14,8 @@ From OneDrive:
 
 From OneDrive:
 
-<iframe src="https://onedrive.live.com/embed?resid=CB3DEB5FC699256B%2148588&authkey=!AAdVKpNoYsiTKak" width="400" height="320" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://onedrive.live.com/embed?resid=CB3DEB5FC699256B%2148588&authkey=!AAdVKpNoYsiTKak" width="400" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 From YouTube:
 
-<iframe src="https://www.youtube.com/embed/6tfZ75JHUY4" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/6tfZ75JHUY4" allowfullscreen frameborder="0"></iframe>
