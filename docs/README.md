@@ -18,4 +18,4 @@ From OneDrive:
 
 From YouTube:
 
-<iframe src="https://www.youtube.com/embed/6tfZ75JHUY4" />
+<iframe src="https://www.youtube.com/embed/6tfZ75JHUY4" allowfullscreen/>
